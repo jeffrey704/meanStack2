@@ -1,0 +1,23 @@
+{
+  "name": "meanstack2",
+  "version": "1.0.0",
+  "description": "MEAN Stack server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffrey704/meanStack2.git"
+  },
+  "author": "Jeff Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffrey704/meanStack2/issues"
+  },
+  "homepage": "https://github.com/jeffrey704/meanStack2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
